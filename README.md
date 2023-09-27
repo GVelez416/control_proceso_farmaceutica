@@ -33,7 +33,7 @@ El análisis de datos permitió esclarecer cuales son los clientes de la empresa
 
 Adicionalmente se pudo ver el tiempo que tarda una análisis fisicoquímico de producto dentro del laboratorio de control de calidad.
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://github.com/GVelez416/control_proceso_farmaceutica/blob/main/analisis.png</span><span>)</span>
+![Lindo in game screenshot](./analisis.png)
 
 <h3 align="left">Herramientas:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
