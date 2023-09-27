@@ -29,7 +29,7 @@ En este repositorio se encuentra la base de datos, los datos después de realiza
 
 El análisis de datos permitió esclarecer cuales son los clientes de la empresa que mas tardan en liberar un producto al mercado, generando costos adicionales de almacenamiento en cuarentena.
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://github.com/GVelez416/control_proceso_farmaceutica/blob/main/boxplot.png</span><span>)</span>
+![Lindo in game screenshot]((https://github.com/GVelez416/control_proceso_farmaceutica/blob/main/boxplot.png))
 
 Adicionalmente se pudo ver el tiempo que tarda una análisis fisicoquímico de producto dentro del laboratorio de control de calidad.
 
